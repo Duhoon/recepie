@@ -1,0 +1,24 @@
+.k{height : 700px;
+    width : 100%;
+ }
+ ul, li{
+   list-style:none;
+ }
+ a {
+   color :black;
+   text-align: center;
+   text-decoration: none;
+ }
+ a:hover{
+   color : black;
+   text-decoration: none;
+ }
+
+ b {
+     font-size : 21px;
+ }
+
+ hr {
+     border-color : black;
+     border-width: 0.2em;
+ }
